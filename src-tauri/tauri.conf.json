@@ -59,7 +59,9 @@
         "height": 600,
         "resizable": true,
         "title": "Simple File Explorer",
-        "width": 800
+        "width": 800,
+        "minHeight": 600,
+        "minWidth": 800
       }
     ]
   }
